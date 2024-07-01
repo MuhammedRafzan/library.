@@ -1,0 +1,76 @@
+body{
+    background-image: url('https://www.wanderwithjo.com/wp-content/uploads/2017/08/books-2602030_1280.jpg');
+}
+.box1{
+    width:400px;
+    height:390px;
+    border:4px solid whitesmoke;
+    margin-left: 500px;
+    padding-left: 90px;
+    padding-top: 20px;
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    margin-top: 180px;
+}
+.text1{
+    text-shadow: 1px 1px 1px;
+    color:rgb(92, 62, 5);
+    border: 2px solid black;
+    background-color: cornsilk;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    
+    
+}
+.bos{
+    
+    cursor: text;
+    border: 2px solid brown;
+    backface-visibility: inherit;
+    background-image: url('https://wallpapers.com/images/high/book-pages-dark-j4ghtlbdkgb3m4e9.jpg');
+    background-size: 200px 30px;
+    text-decoration: solid;
+    color: rgb(251, 250, 244);
+    font-size: larger;
+    line-height: 0.8;
+    border-radius: 19px;
+    
+}
+#texbos{
+    width: 300px;
+    height: 50px;
+    background-image: url(https://wallpapers.com/images/high/book-pages-dark-j4ghtlbdkgb3m4e9.jpg);
+    background-size: 300px 50px;
+    color: beige;
+    font-size: large;
+    border-radius: 10px;
+    
+}
+.text2:hover{
+    background-color: beige;
+    transition: ease-in;
+    filter: drop-shadow(0 0 2px black);
+}
+.bos2{
+    cursor: pointer;
+    border: 2px solid brown;
+    backface-visibility: inherit;
+    background-image: url('https://wallpapers.com/images/high/book-pages-dark-j4ghtlbdkgb3m4e9.jpg');
+    background-size: 200px 30px;
+    text-decoration: solid;
+    color: rgb(251, 250, 244);
+    font-size: larger;
+    line-height: 0.8;
+    border-radius: 19px;
+
+}
+#h{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 90px;
+    color:azure;
+    text-shadow: 0 0 2px black;
+    font-size: 30px;
+}
+
+ 
